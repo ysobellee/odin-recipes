@@ -1,1 +1,2 @@
 # odin-recipes
+This is an HTML Project in which I'll make an html file for recipes of my choice. The skills I demonstrated here are using element tags such as, heading tags, p, divs, lists, images, connecting web pages together.

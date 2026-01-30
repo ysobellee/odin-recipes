@@ -1,0 +1,23 @@
+
+body {
+    margin-left: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #281E18;
+}
+
+h2 {
+    font-family: "Pacifico", cursive;
+    font-style: normal;
+    color:brown;
+    display: block;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
