@@ -1,11 +1,17 @@
 
 body {
-    margin-left: 25px;
+    /* margin-left: 25px; */
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #F9F8F3;
-    color: #2D302E;
+    color: #564214;
     background-size: cover;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("images/background.jpg");
+    /* background-image: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.6)), url("images/background.jpg"); */
+}
+
+.container {
+    max-width: 1000px;
+    margin-left: 3%;
+    margin-right: auto; 
 }
 
 h1 {
@@ -35,4 +41,5 @@ img {
     margin: 0 20px 0 0;
     border: 1px solid rgb(177, 146, 146);
     padding: 10px;
+    background-color:azure;
 }
